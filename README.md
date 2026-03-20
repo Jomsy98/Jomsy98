@@ -3,4 +3,4 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=11202488)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jomsy98&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=jomsy98&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
